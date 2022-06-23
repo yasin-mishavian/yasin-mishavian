@@ -7,7 +7,7 @@ I'am Yasin from Iran , and I have full development . I am very interested in tec
 
 https:/yasin-mishavian-personal-portfolio-v3.vercel.app
 
-<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" width="256" height="256" />
+<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" width="512" height="256" />
 
 Skills: React.js / Next.js / Html / Css / Sass / JavaScript ES6-ES7 / TypeScript / Redux / Node.js / Express / MongoDB / Mongoose
 
