@@ -1,4 +1,4 @@
-### Hi there 👋, Yasin Mishavian
+### I'm yasin 👋
 #### full stack development
 ![full stack development](https://www.calmdigital.com/media/article/banner/vacancyfullstack-dev-banner_2.png.1024x512_q85_crop_upscale.png)
 
