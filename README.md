@@ -5,7 +5,7 @@
 
 I'am Yasin from Iran , and I have full development . I am very interested in technology and web applications. You can get to know me better through my personal website :
 
-https:/yasin-mishavian-personal-portfolio-v3.vercel.app
+https://yasin-mishavian-personal-portfolio-v3.vercel.app
 
 <img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" width="256" height="256" />
 
