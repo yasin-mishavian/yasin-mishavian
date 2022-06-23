@@ -3,7 +3,7 @@
 ### Hi I'm yasin 👋
 #### full stack development
 
-I'am Yasin from Iran , and I have full stack developer and Main skill is Front-end. I am very interested in technology and web applications. You can get to know me better through my personal website :
+I'am Yasin from Iran , and I have full stack developer and Main skill is Front-end. I very interested in technology and web applications. You can get to know me better through my personal website :
 
 https://yasin-mishavian-personal-portfolio-v3.vercel.app
 
