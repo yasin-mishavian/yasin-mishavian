@@ -1,7 +1,7 @@
 ![full stack development](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)
 
 ### Hi I'm yasin 👋
-#### full stack developer
+#### Full Stack Web Developer
 
 I'am Yasin from Iran , and I have full stack developer and My main skill is Front-end. I very interested in technology and web applications. You can get to know me better through my personal website :
 
