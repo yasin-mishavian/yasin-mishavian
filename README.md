@@ -1,5 +1,4 @@
-![full](https://user-images.githubusercontent.com/94756062/184510715-f42beb09-8b42-4d2e-9b8a-0c0fba98bbea.jpg)
-[<img src='https://user-images.githubusercontent.com/94756062/184510715-f42beb09-8b42-4d2e-9b8a-0c0fba98bbea.jpg' width='100%' alt='instagram' height='40'>]
+<img src='https://user-images.githubusercontent.com/94756062/184510715-f42beb09-8b42-4d2e-9b8a-0c0fba98bbea.jpg' width='100%' alt='instagram'>
 
 ### Hi I'm yasin 👋
 #### Full Stack Web Developer
