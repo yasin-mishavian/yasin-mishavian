@@ -5,7 +5,7 @@
 
 I'am Yasin from Iran , and My main skill is Front-end. I very interested in technology and web applications. You can get to know me better through my personal website :
 
-VPN ON (با فیلتر شکن)
+Vpn On (با فیلتر شکن وارد شوید)
 
 https://yasin-mishavian-personal-portfolio-v3.vercel.app
 
