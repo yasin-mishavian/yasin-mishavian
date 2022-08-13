@@ -1,4 +1,4 @@
-![full stack development](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)
+![full](https://user-images.githubusercontent.com/94756062/184510715-f42beb09-8b42-4d2e-9b8a-0c0fba98bbea.jpg)
 
 ### Hi I'm yasin 👋
 #### Full Stack Web Developer
@@ -12,5 +12,7 @@ https://yasin-mishavian-personal-portfolio-v3.vercel.app
 Skills: React.js / Next.js / Html / Css / Sass / JavaScript ES6-ES7 / TypeScript / Redux / Node.js / Express / MongoDB / Mongoose
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yasin-mishavian-384213225)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yasinm.026)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yasinmishavian)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yasin-mishavian-personal-portfolio-v3.vercel.app)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yasinm.026)         
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yasinmishavian)         
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yasin-mishavian-personal-portfolio-v3.vercel.app)  
 
